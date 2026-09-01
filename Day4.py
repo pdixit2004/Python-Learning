@@ -197,18 +197,17 @@
 
 # Program 19 - pattern style problem
 
-row = 1
-count = 1
-while row<=3:
-    col = 1
-    while col <= 3:
-        print(count, end = "")
-        count = count + 1
-        col = col + 1
-    print()
-    row = row + 1
+# row = 1
+# count = 1
+# while row<=3:
+#     col = 1
+#     while col <= 3:
+#         print(count, end = "")
+#         count = count + 1
+#         col = col + 1
+#     print()
+#     row = row + 1
     
-
 
         
 
