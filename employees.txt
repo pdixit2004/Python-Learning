@@ -1,0 +1,6 @@
+Rahul, 5000
+Priya, 75000
+Amit, abc
+Neha, 90000
+Ravi, -50000
+Karan, 75000
